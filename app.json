@@ -4,11 +4,11 @@
     "slug": "201910756",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/cedae-logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/cedae-logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/cedae-logo.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/cedae-logo.png"
     }
   }
 }
